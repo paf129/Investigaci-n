@@ -1,0 +1,21 @@
+! name: Investigation / Investigación
+! description: Prioritizes investigation pages.
+! author: paf129
+! public: true
+! avatar: #ff6600
+
+$discard
+$boost=4,site=mdpi.com
+$boost=4,site=sciencedirect.com
+$boost=4,site=scopus.com
+$boost=4,site=springer.com
+$boost=4,site=taylorandfrancis.com
+$boost=4,site=cdnsciencepub.com
+$boost=4,site=asce.org
+$boost=4,site=austroads.com.au
+$boost=4,site=icevirtuallibrary.com
+$boost=4,site=eapa.org
+$boost=4,site=fhwa.dot.gov
+$boost=4,site=asphaltinstitute.org
+$boost=4,site=asphaltpavement.org
+$boost=4,site=pubmed.ncbi.nlm.nih.gov
