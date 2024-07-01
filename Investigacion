@@ -19,3 +19,11 @@ $boost=4,site=fhwa.dot.gov
 $boost=4,site=asphaltinstitute.org
 $boost=4,site=asphaltpavement.org
 $boost=4,site=pubmed.ncbi.nlm.nih.gov
+$boost=4,site=nature.com/nmat/
+$boost=4,site=scholar.google.com
+$boost=4,site=sciencedirect.com/journal/transportation-research-part-c-emerging-technologies
+$boost=4,site=keaipublishing.com/en/journals/journal-of-traffic-and-transportation-engineering-english-edition/
+$boost=4,site=sciencedirect.com/journal/transportation-geotechnics
+$boost=4,site=sciencedirect.com/journal/soils-and-foundations
+$boost=4,site=etrr.springeropen.com
+$boost=4,site=researchgate.net
